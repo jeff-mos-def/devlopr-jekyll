@@ -19,9 +19,9 @@ For this every Author needs to have a unique username (without space) For eg. If
 
 ### Configuring Authors :
 
-Under _authors folder create a author details file (username.md) with his/her username (as described above). For eg. **johndoe.md**.
+Under _authors folder create a author details file (username.md) with his/her username (as described above). For eg. **jeff.md**.
 
-Then add this frontmatter to describe the author in **johndoe.md**.
+Then add this frontmatter to describe the author in **jeff.md**.
 ```yml
 ---
 name: John Doe # Name of the Author
